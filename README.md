@@ -1,0 +1,1 @@
+npm i dotenv express mongoose nodemon jsonwebtoken bcrypt cors cookie-parser http-status-codes winston zod express-fileupload cloudinary
